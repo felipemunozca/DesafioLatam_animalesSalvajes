@@ -16,12 +16,21 @@ _Prueba final del Modulo Programación Avanzada en JavaScript._
 
 ## Requerimientos
 _1. Crear las clases representadas en el diagrama implementando la herencia indicada._
+
 _2. Crear las instancias de las clases utilizando los datos del formulario._
+
 _3. Realizar una consulta asíncrona utilizando una función async/await para obtener las imágenes correspondientes a los animales._
+
 _4. Realizar por lo menos una función autoejecutable IIFE._
+
 _5. Dividir el código en módulos_
+
 _6. Utilizar la manipulación del DOM para mostrar en la tabla los animales registrados con el formulario._
+
 _7. Validar que el usuario haya asignado todos los datos del animal antes de que éste sea agregado a la tabla._
+
 _8. Devolver el formulario en un estado inicial luego de registrar a cada animal._
+
 _9. Programar la interacción del botón de audio, en donde deberás reproducir el sonido del animal en el sitio web._
+
 _10. Mostrar el detalle de cada animal en una ventana modal al ser presionada su imagen._
