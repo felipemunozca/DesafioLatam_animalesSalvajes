@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+
+  background: url("../imgs/fondo.jpg"); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0;
+  height: 100vh;
+  padding-top: 40px;
+  padding-bottom: 70px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+/* Formulario */
+
+#preview {
+  height: 200px;
+  background-image: url(../imgs/lion.svg);
+  background-position: top;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+/* Tabla de Participantes */
+
+#Animales {
+  height: 100%;
+  background: #f0f0f0;
+}
+
+#Animales div div {
+  transition: all 200ms;
+}
+
+#Animales div >div:hover {
+  box-shadow: 0px 1px 5px 1px;
+}
+
+.participante {
+  max-width: 30%;
+}
+
+/* Modal */
+
+.modal-dialog{
+    max-width: 85% !important;
+}
+
+
+
+/*************
+Media Querys
+**************/
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1440px) {
+  #preview > img {
+    width: 55%;
+  }
+}
+
+@media (max-width: 767px) { 
+  body {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+
+  .w-25 {
+    width: 75% !important;
+    text-align: center;
+  }
+}
