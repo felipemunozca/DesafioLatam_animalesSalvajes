@@ -1,0 +1,45 @@
+Feedback Prueba - Animales Salvajes
+
+Excelente trabajo, único detalle que no se creo la clase animal de la cual extienden cada una de clases especies, 
+no obstante, como realizaste los puntos opcionales obtuviste los 10 puntos. 
+
+Requerimientos
+
+1. Crear las clases representadas en el diagrama implementando la herencia indicada.(2 Puntos)
+
+    Puntaje obtenido:1
+    No se crea la clase animal de la cual extienden las especies.
+
+2. Crear las instancias de las clases utilizando los datos del formulario. (2 Puntos)
+
+    Puntaje obtenido:2
+
+3. Realizar una consulta asíncrona utilizando una función async/await para obtener las imágenes correspondientes a los animales. (1 Punto)
+
+    Puntaje obtenido: 1
+
+4. Realizar por lo menos una función autoejecutable IIFE. (1 Punto)
+
+5. Dividir el código en módulos (2 Puntos)
+
+    Puntaje obtenido: 2
+
+6. Utilizar la manipulación del DOM para mostrar en la tabla los animales registrados con el formulario. (2 Puntos)
+
+    Puntaje obtenido: 2
+
+7. Validar que el usuario haya asignado todos los datos del animal antes de que éste sea agregado a la tabla. (Opcional)
+
+    Realizado
+
+8. Devolver el formulario en un estado inicial luego de registrar a cada animal. (Opcional)
+
+    Realizado
+
+9. Programar la interacción del botón de audio, en donde deberás reproducir el sonido del animal en el sitio web. (Opcional)
+
+    Realizado
+
+10. Mostrar el detalle de cada animal en una ventana modal al ser presionada su imagen. (Opcional)
+
+    Realizado
